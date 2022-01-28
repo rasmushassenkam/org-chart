@@ -1,5 +1,6 @@
 {
   "name": "d3-org-chart",
+  "type": "module",
   "version": "2.6.0",
   "module": "index",
   "description": "Highly customizable org chart, created with d3",
